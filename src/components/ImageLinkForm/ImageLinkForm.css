@@ -1,0 +1,8 @@
+.BgColour {
+    background: linear-gradient(to right,  rgb(83, 98, 216), rgb(134, 32, 96));
+}
+
+.form {
+    min-width: 450px;
+    width: 40%;
+}
