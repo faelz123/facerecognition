@@ -7,6 +7,7 @@ import Particle from './components/Particles/Particles';
 import SignIn from './components/SingIn/SingIn';
 import Register from './components/Register/Register'
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
+//import firebase from './firebase';
 
 import './App.css';
 
